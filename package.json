@@ -1,0 +1,21 @@
+{
+  "name": "gruvbox-dark-gray8",
+  "displayName": "Gruvbox Dark Gray8",
+  "description": "A modification to Gruvbox Dark Medium with mainly hex-gray-8 (#14141499) backgrounds. Hovers are semi-transparent.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.115.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gruvbox Dark Gray8",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox-dark-gray8-color-theme.json"
+      }
+    ]
+  }
+}
