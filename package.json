@@ -1,6 +1,7 @@
 {
   "name": "gruvbox-dark-gray8",
   "displayName": "Gruvbox Dark Gray8",
+  "publisher": "SimonDaKappa",
   "repository": {
     "url": "https://github.com/SimonDaKappa/vscode-gruvbox-dark-gray8"
   },
