@@ -6,7 +6,7 @@
     "url": "https://github.com/SimonDaKappa/vscode-gruvbox-dark-gray8"
   },
   "description": "A modification to Gruvbox Dark Medium with mainly hex-gray-8 (#14141499) backgrounds. Hovers are semi-transparent.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.115.0"
   },
